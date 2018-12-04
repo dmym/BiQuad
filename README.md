@@ -1,4 +1,4 @@
-[[https://github.com/dimoncomon/BiQuad/blob/master/gui.png|alt=gui]]
+![gui](https://github.com/dimoncomon/BiQuad/blob/master/gui.png)
 
 ## Overview
 BiQuad is C++ audio plugin that implements several IIR filter designs with bi-quad topology.
