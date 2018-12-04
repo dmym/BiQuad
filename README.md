@@ -13,4 +13,4 @@ DSP algorithms implemented as separate JUCE module - home_dsp, which should be i
 Basis for filtering algorithms were taken from the book "Designing Audio Effect Plug-Ins in C++ With Digital Audio Signal Processing Theory " by Will Pirkle
 
 ## LICENSE
-This code is licensed under the terms of the GNU General Public License v3.0 (see the file LICENSE in this repo), inhertited from the JUCE framework. 
+This code is licensed under the terms of the GNU General Public License v3.0 (see the file LICENSE in this repo). 
